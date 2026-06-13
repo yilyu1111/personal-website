@@ -68,7 +68,7 @@ export default function App() {
         >
           {page !== "home" && <ChevronLeft size={15} style={{ color: "#3a7d52" }} />}
           <span style={{ fontFamily: "'Lora', serif", fontSize: "1.05rem", fontWeight: 600, color: "#1a3020" }}>
-            Alex Chen
+            Yi Lyu
           </span>
           <span style={{
             fontFamily: "'JetBrains Mono', monospace",
@@ -79,7 +79,7 @@ export default function App() {
             borderRadius: 5,
             padding: "2px 7px",
           }}>
-            BA · Data
+            PM · BA
           </span>
         </button>
 

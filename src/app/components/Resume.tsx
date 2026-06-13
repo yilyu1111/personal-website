@@ -52,7 +52,7 @@ const SKILLS = [
   { icon: Database,   label: "SQL & Data Warehousing",          level: 95, color: "#3a7d52" },
   { icon: BarChart2,  label: "Statistical Modeling (R / Python)", level: 88, color: "#2d7a87" },
   { icon: Code,       label: "Python — Pandas, NumPy",           level: 85, color: "#7a6e9e" },
-  { icon: Network,    label: "Healthcare Data Governance",        level: 82, color: "#3a7d52" },
+  { icon: Network,    label: "UX Design",                         level: 82, color: "#3a7d52" },
   { icon: Activity,   label: "SaaS Product Management",          level: 90, color: "#2d7a87" },
   { icon: Wrench,     label: "Business Process Design",          level: 92, color: "#7a9e3a" },
 ];
@@ -73,7 +73,7 @@ export function Resume() {
             Resume
           </h1>
           <p style={{ fontFamily: "'Inter', sans-serif", fontSize: "0.87rem", color: "#1a3520", marginTop: 5, maxWidth: 520, lineHeight: 1.65 }}>
-            Business Analyst & Data Professional with a Mathematics background, specializing in SaaS analytics, healthcare data governance, and statistical modeling.
+            Under construction. My experience is real, but this page is still loading.
           </p>
         </motion.div>
 
@@ -136,10 +136,9 @@ export function Resume() {
                 <GraduationCap size={15} style={{ color: "#3a7d52" }} />
                 <p style={{ fontFamily: "'Inter', sans-serif", fontSize: "0.75rem", fontWeight: 600, color: "#1a3020", textTransform: "uppercase", letterSpacing: "0.08em" }}>Education</p>
               </div>
-              <p style={{ fontFamily: "'Lora', serif", fontSize: "0.95rem", fontWeight: 600, color: "#1a3020" }}>B.Sc. Mathematics</p>
-              <p style={{ fontFamily: "'Inter', sans-serif", fontSize: "0.8rem", color: "#3a7d52", marginTop: 2 }}>University of British Columbia</p>
-              <p style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "0.68rem", color: "#3d5c45", marginTop: 2 }}>2018</p>
-              <p style={{ fontFamily: "'Inter', sans-serif", fontSize: "0.76rem", color: "#2a4530", marginTop: 5, lineHeight: 1.55 }}>Focus on Statistics & Probability Theory</p>
+              <p style={{ fontFamily: "'Inter', sans-serif", fontSize: "0.78rem", color: "#3d5c45", fontStyle: "italic", lineHeight: 1.6 }}>
+                Details coming soon...
+              </p>
             </motion.div>
 
             {/* Skills */}

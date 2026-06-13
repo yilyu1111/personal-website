@@ -76,10 +76,10 @@ export function Landing({ onNavigate }: LandingProps) {
             {/* Identity */}
             <div>
               <h1 style={{ fontFamily: "'Lora', serif", fontSize: "1.45rem", fontWeight: 600, color: "#1a3020" }}>
-                Alex Chen
+                Yi Lyu
               </h1>
               <p style={{ fontFamily: "'Inter', sans-serif", fontSize: "0.81rem", fontWeight: 500, color: "#3a7d52", marginTop: 3 }}>
-                Business Analyst · Data Enthusiast
+                Innovation & Value-Driven Product Manager & Business Analyst
               </p>
               <div className="flex items-center justify-center gap-1 mt-1.5" style={{ color: "#2a4530" }}>
                 <MapPin size={11} />
@@ -88,7 +88,7 @@ export function Landing({ onNavigate }: LandingProps) {
             </div>
 
             <p style={{ fontFamily: "'Inter', sans-serif", fontSize: "0.83rem", color: "#152a1a", lineHeight: 1.65 }}>
-              Turning messy data into clear decisions. Hiking Quarry Rock on weekends. Math grad who never stopped counting.
+              A deep thinker who uses 100% of their brain capacity to analyze complex data, but still pushes a door that says PULL.
             </p>
 
             {/* Social icons */}
